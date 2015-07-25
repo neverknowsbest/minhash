@@ -1,0 +1,140 @@
+58799	(58799,65436,93 Jock,933 Jocko,Common tokens:  '93'~='933': 0.707*0.707*0.911 'jock'~='jocko': 0.707*0.707*0.960
+score = 0.9355555555555555)
+85938	(85938,81247,345 Verla Pkwy,345 Veryl Pkwy,Common tokens:  pkwy: 0.577*0.577 345: 0.577*0.577 'verla'~='veryl': 0.577*0.577*0.907
+score = 0.9688888888888891)
+49109	(49109,71951,840 Manap Parkway,84 Manan Parkway,Common tokens:  parkway: 0.577*0.577 '840'~='84': 0.577*0.577*0.911 'manap'~='manan': 0.577*0.577*0.920
+score = 0.9437037037037039)
+50838	(50838,86425,951 Diemel Ave,951 Diebel Ave,Common tokens:  ave: 0.577*0.577 951: 0.577*0.577 'diemel'~='diebel': 0.577*0.577*0.922
+score = 0.9740740740740743)
+39505	(39505,60367,653 Ardizone Ave,65 Ardizone Ave,Common tokens:  '653'~='65': 0.577*0.577*0.911 ave: 0.577*0.577 ardizone: 0.577*0.577
+score = 0.9703703703703705)
+1240	(1240,5399,731 Keri Avenue,73 Kri Avenue,Common tokens:  avenue: 0.577*0.577 '731'~='73': 0.577*0.577*0.911 'keri'~='kri': 0.577*0.577*0.925
+score = 0.9453703703703706)
+45652	(45652,98539,85 Pao Avenue,852 Paco Avenue,Common tokens:  avenue: 0.577*0.577 '85'~='852': 0.577*0.577*0.911 'pao'~='paco': 0.577*0.577*0.933
+score = 0.9481481481481484)
+33355	(33355,82284,445 Tama Avenue,44 Tam Avenue,Common tokens:  avenue: 0.577*0.577 '445'~='44': 0.577*0.577*0.911 'tama'~='tam': 0.577*0.577*0.942
+score = 0.9509259259259262)
+270	(270,86065,175 Ugo Ave,17 Dugo Ave,Common tokens:  ave: 0.577*0.577 '175'~='17': 0.577*0.577*0.911 'ugo'~='dugo': 0.577*0.577*0.917
+score = 0.9425925925925929)
+40026	(40026,96370,973 Sanni Avenue,973 Sandi Avenue,Common tokens:  avenue: 0.577*0.577 973: 0.577*0.577 'sanni'~='sandi': 0.577*0.577*0.907
+score = 0.9688888888888891)
+33965	(33965,44781,900 Franny Avenue,90 Franny Avenue,Common tokens:  avenue: 0.577*0.577 '900'~='90': 0.577*0.577*0.911 franny: 0.577*0.577
+score = 0.9703703703703705)
+975	(975,13828,231 Maez Ave,231 Marez Ave,Common tokens:  ave: 0.577*0.577 231: 0.577*0.577 'maez'~='marez': 0.577*0.577*0.947
+score = 0.9822222222222224)
+95023	(95023,91976,291 Orleman Ave,291 Foreman Ave,Common tokens:  ave: 0.577*0.577 291: 0.577*0.577 'orleman'~='foreman': 0.577*0.577*0.905
+score = 0.9682539682539686)
+46089	(46089,2938,228 Bures Pkwy,22 Bres Pkwy,Common tokens:  pkwy: 0.577*0.577 '228'~='22': 0.577*0.577*0.911 'bures'~='bres': 0.577*0.577*0.940
+score = 0.9503703703703705)
+49368	(49368,75926,776 Travers Ave,776 Travelper Ave,Common tokens:  ave: 0.577*0.577 776: 0.577*0.577 'travers'~='travelper': 0.577*0.577*0.905
+score = 0.9682539682539686)
+90628	(90628,48927,126 Daring Pkwy,126 Darling Pkwy,Common tokens:  126: 0.577*0.577 'daring'~='darling': 0.577*0.577*0.967 pkwy: 0.577*0.577
+score = 0.9888888888888892)
+58741	(58741,21456,11 Goody Avenue,115 Goofy Avenue,Common tokens:  avenue: 0.577*0.577 '11'~='115': 0.577*0.577*0.911 'goody'~='goofy': 0.577*0.577*0.907
+score = 0.9392592592592595)
+40688	(40688,42867,930 Gruder,930 Grude,Common tokens:  930: 0.707*0.707 'gruder'~='grude': 0.707*0.707*0.967
+score = 0.9833333333333332)
+1244	(1244,44076,623 Cambra Rd,623 Carma Rd,Common tokens:  rd: 0.577*0.577 623: 0.577*0.577 'cambra'~='carma': 0.577*0.577*0.902
+score = 0.9674074074074077)
+29058	(29058,82313,972 Reno Avenue,97 Renouf Avenue,Common tokens:  avenue: 0.577*0.577 '972'~='97': 0.577*0.577*0.911 'reno'~='renouf': 0.577*0.577*0.933
+score = 0.9481481481481484)
+70633	(70633,16916,10 Bee Road,107 Beese Road,Common tokens:  road: 0.577*0.577 '10'~='107': 0.577*0.577*0.911 'bee'~='beese': 0.577*0.577*0.907
+score = 0.9392592592592595)
+75501	(75501,41658,64 Darnel Road,643 Darcel Road,Common tokens:  road: 0.577*0.577 '64'~='643': 0.577*0.577*0.911 'darnel'~='darcel': 0.577*0.577*0.922
+score = 0.9444444444444446)
+90827	(90827,19505,89 Romona Road,899 Romina Road,Common tokens:  road: 0.577*0.577 '89'~='899': 0.577*0.577*0.911 'romona'~='romina': 0.577*0.577*0.922
+score = 0.9444444444444446)
+42329	(42329,56821,194 Dyana Rd,194 Dyana Rd,Common tokens:  194: 0.577*0.577 dyana: 0.577*0.577 rd: 0.577*0.577
+score = 1.0000000000000002)
+6505	(6505,36000,41 Shree Ave,41 Shreve Ave,Common tokens:  ave: 0.577*0.577 41: 0.577*0.577 'shree'~='shreve': 0.577*0.577*0.967
+score = 0.9888888888888892)
+81325	(81325,30520,63 Chiam Ave,637 Chiba Ave,Common tokens:  ave: 0.577*0.577 '63'~='637': 0.577*0.577*0.911 'chiam'~='chiba': 0.577*0.577*0.907
+score = 0.9392592592592595)
+80146	(80146,41746,437 Chai Ave,43 Chari Ave,Common tokens:  ave: 0.577*0.577 'chai'~='chari': 0.577*0.577*0.953 '437'~='43': 0.577*0.577*0.911
+score = 0.954814814814815)
+69488	(69488,10643,440 Chand Ave,440 Chandanais Ave,Common tokens:  ave: 0.577*0.577 440: 0.577*0.577 'chand'~='chandanais': 0.577*0.577*0.900
+score = 0.966666666666667)
+1124	(1124,20007,863 Phiroze Road,86 Phiroze Road,Common tokens:  road: 0.577*0.577 '863'~='86': 0.577*0.577*0.911 phiroze: 0.577*0.577
+score = 0.9703703703703705)
+8241	(8241,98138,911 Michalski Avenue,91 Michalko Avenue,Common tokens:  avenue: 0.577*0.577 '911'~='91': 0.577*0.577*0.911 'michalski'~='michalko': 0.577*0.577*0.931
+score = 0.9472222222222224)
+16411	(16411,66603,29 Shingler Ave,293 Shillinger Ave,Common tokens:  ave: 0.577*0.577 '29'~='293': 0.577*0.577*0.911 'shingler'~='shillinger': 0.577*0.577*0.924
+score = 0.9450925925925928)
+14955	(14955,9331,58 Luna Street,583 Lucina Street,Common tokens:  street: 0.577*0.577 '58'~='583': 0.577*0.577*0.911 'luna'~='lucina': 0.577*0.577*0.911
+score = 0.9407407407407409)
+98826	(98826,4515,318 Toshinari Street,318 Toshiaki Street,Common tokens:  street: 0.577*0.577 318: 0.577*0.577 'toshinari'~='toshiaki': 0.577*0.577*0.931
+score = 0.9768518518518521)
+13807	(13807,48263,533 Kleynenbergntrtpb Ave,53 Kleynenbergntntcb Ave,Common tokens:  ave: 0.577*0.577 '533'~='53': 0.577*0.577*0.911 'kleynenbergntrtpb'~='kleynenbergntntcb': 0.577*0.577*0.953
+score = 0.9546840958605667)
+64192	(64192,650,25 Stajduhar Avenue,255 Stajduhar Avenue,Common tokens:  avenue: 0.577*0.577 '25'~='255': 0.577*0.577*0.911 stajduhar: 0.577*0.577
+score = 0.9703703703703705)
+18167	(18167,14593,633 Santina Ave,63 Santi Ave,Common tokens:  ave: 0.577*0.577 '633'~='63': 0.577*0.577*0.911 'santina'~='santi': 0.577*0.577*0.943
+score = 0.9513227513227516)
+69335	(69335,57525,468 Antimo,468 Antrim,Common tokens:  468: 0.707*0.707 'antimo'~='antrim': 0.707*0.707*0.922
+score = 0.961111111111111)
+2216	(2216,74888,685 Chanitr,685 Chatri,Common tokens:  685: 0.707*0.707 'chanitr'~='chatri': 0.707*0.707*0.928
+score = 0.9638888888888888)
+89840	(89840,29525,515 Pippert Rd,515 Pippert Rd,Common tokens:  rd: 0.577*0.577 515: 0.577*0.577 pippert: 0.577*0.577
+score = 1.0000000000000002)
+46918	(46918,62772,670 Ramil Street,670 Rami Street,Common tokens:  street: 0.577*0.577 670: 0.577*0.577 'ramil'~='rami': 0.577*0.577*0.960
+score = 0.9866666666666669)
+56290	(56290,87313,41 Coertnik Rd,410 Coertnik Rd,Common tokens:  rd: 0.577*0.577 '41'~='410': 0.577*0.577*0.911 coertnik: 0.577*0.577
+score = 0.9703703703703705)
+18480	(18480,10666,267 Stepter Rd,267 Stelter Rd,Common tokens:  rd: 0.577*0.577 267: 0.577*0.577 'stepter'~='stelter': 0.577*0.577*0.933
+score = 0.9777777777777781)
+60728	(60728,55284,831 Betteanne Street,831 Betteanne Street,Common tokens:  street: 0.577*0.577 831: 0.577*0.577 betteanne: 0.577*0.577
+score = 1.0000000000000002)
+16543	(16543,14938,98 Bortenstein Avenue,985 Bortenstein Avenue,Common tokens:  avenue: 0.577*0.577 '98'~='985': 0.577*0.577*0.911 bortenstein: 0.577*0.577
+score = 0.9703703703703705)
+60975	(60975,31705,940 Kenik Street,940 Kenck Street,Common tokens:  street: 0.577*0.577 940: 0.577*0.577 'kenik'~='kenck': 0.577*0.577*0.907
+score = 0.9688888888888891)
+19452	(19452,99509,147 Lauzon St,147 Lauson St,Common tokens:  st: 0.577*0.577 147: 0.577*0.577 'lauzon'~='lauson': 0.577*0.577*0.922
+score = 0.9740740740740743)
+69796	(69796,44964,354 Milone St,354 Malone St,Common tokens:  354: 0.577*0.577 'milone'~='malone': 0.577*0.577*0.900 st: 0.577*0.577
+score = 0.966666666666667)
+70187	(70187,51101,163 Mallery St,163 Marley St,Common tokens:  st: 0.577*0.577 163: 0.577*0.577 'mallery'~='marley': 0.577*0.577*0.917
+score = 0.9724867724867727)
+70275	(70275,11643,893 Mariette Street,893 Maritta Street,Common tokens:  street: 0.577*0.577 893: 0.577*0.577 'mariette'~='maritta': 0.577*0.577*0.921
+score = 0.9738095238095241)
+71126	(71126,35317,590 Geor Street,59 George Street,Common tokens:  street: 0.577*0.577 '590'~='59': 0.577*0.577*0.911 'geor'~='george': 0.577*0.577*0.933
+score = 0.9481481481481484)
+31720	(31720,30962,890 Sandiford Street,89 Sandi Street,Common tokens:  street: 0.577*0.577 '890'~='89': 0.577*0.577*0.911 'sandiford'~='sandi': 0.577*0.577*0.911
+score = 0.9407407407407409)
+29940	(29940,4913,396 Lamourt St,396 Lamour St,Common tokens:  396: 0.577*0.577 st: 0.577*0.577 'lamourt'~='lamour': 0.577*0.577*0.971
+score = 0.9904761904761907)
+18494	(18494,36715,49 Jeannest Ave,491 Jeanette Ave,Common tokens:  ave: 0.577*0.577 '49'~='491': 0.577*0.577*0.911 'jeannest'~='jeanette': 0.577*0.577*0.900
+score = 0.9370370370370373)
+75523	(75523,64704,795 Lawry St,795 Law St,Common tokens:  795: 0.577*0.577 'lawry'~='law': 0.577*0.577*0.907 st: 0.577*0.577
+score = 0.9688888888888891)
+24177	(24177,56558,595 Yih St,59 Yiah St,Common tokens:  st: 0.577*0.577 '595'~='59': 0.577*0.577*0.911 'yih'~='yiah': 0.577*0.577*0.933
+score = 0.9481481481481484)
+60486	(60486,31051,71 Shalla Street,711 Shaull Street,Common tokens:  '71'~='711': 0.577*0.577*0.911 'shalla'~='shaull': 0.577*0.577*0.922 street: 0.577*0.577
+score = 0.9444444444444446)
+48735	(48735,88592,435 Sandor Street,43 Sandor Street,Common tokens:  street: 0.577*0.577 '435'~='43': 0.577*0.577*0.911 sandor: 0.577*0.577
+score = 0.9703703703703705)
+44733	(44733,53083,520 Poteet,520 Pote,Common tokens:  520: 0.707*0.707 'poteet'~='pote': 0.707*0.707*0.933
+score = 0.9666666666666666)
+5205	(5205,33704,678 Slavish Street,678 Slavish Street,Common tokens:  street: 0.577*0.577 678: 0.577*0.577 slavish: 0.577*0.577
+score = 1.0000000000000002)
+96252	(96252,24412,991 Ermin Street,991 Ermina Street,Common tokens:  street: 0.577*0.577 991: 0.577*0.577 'ermin'~='ermina': 0.577*0.577*0.967
+score = 0.9888888888888892)
+40732	(40732,5511,440 Sevier Street,440 Stevie Street,Common tokens:  street: 0.577*0.577 440: 0.577*0.577 'sevier'~='stevie': 0.577*0.577*0.900
+score = 0.966666666666667)
+12607	(12607,24403,800 Hamley Ave,800 Hamley Ave,Common tokens:  ave: 0.577*0.577 800: 0.577*0.577 hamley: 0.577*0.577
+score = 1.0000000000000002)
+75657	(75657,1919,614 Harpal Road,614 Harpell Road,Common tokens:  614: 0.577*0.577 'harpal'~='harpell': 0.577*0.577*0.910 road: 0.577*0.577
+score = 0.9698412698412702)
+53058	(53058,23029,343 Han Ave,34 Harn Ave,Common tokens:  ave: 0.577*0.577 '343'~='34': 0.577*0.577*0.911 'han'~='harn': 0.577*0.577*0.933
+score = 0.9481481481481484)
+11761	(11761,73207,191 Hei Pkwy,19 Heile Pkwy,Common tokens:  pkwy: 0.577*0.577 '191'~='19': 0.577*0.577*0.911 'hei'~='heile': 0.577*0.577*0.907
+score = 0.9392592592592595)
+93382	(93382,53706,322 Hamilton St,32 Hamliton St,Common tokens:  st: 0.577*0.577 '322'~='32': 0.577*0.577*0.911 'hamilton'~='hamliton': 0.577*0.577*0.971
+score = 0.9606481481481484)
+29895	(29895,61285,98 Nally Avenue,985 Nunally Avenue,Common tokens:  avenue: 0.577*0.577 '98'~='985': 0.577*0.577*0.911 'nally'~='nunally': 0.577*0.577*0.914
+score = 0.9417989417989421)
+42496	(42496,69348,844 Janean,844 Janna,Common tokens:  844: 0.707*0.707 'janean'~='janna': 0.707*0.707*0.914
+score = 0.9572222222222221)
+5900	(5900,1808,375 Kizer,375 Kilzer,Common tokens:  375: 0.707*0.707 'kizer'~='kilzer': 0.707*0.707*0.956
+score = 0.9777777777777776)
+99589	(99589,81794,282 Benninger,282 Benger,Common tokens:  282: 0.707*0.707 'benninger'~='benger': 0.707*0.707*0.922
+score = 0.9611111111111108)

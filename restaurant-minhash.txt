@@ -1,0 +1,188 @@
+110	(110,111,30 rockefeller plaza,30 rockefeller plaza,Common tokens:  30: 0.577*0.577 rockefeller: 0.577*0.577 plaza: 0.577*0.577
+score = 1.0000000000000002)
+172	(172,173,224 ponce de leon ave.,224 ponce de leon ave.,Common tokens:  ave: 0.447*0.447 ponce: 0.447*0.447 de: 0.447*0.447 leon: 0.447*0.447 224: 0.447*0.447
+score = 0.9999999999999999)
+28	(28,29,129 n. la cienega blvd.,129 n. la cienega blvd.,Common tokens:  129: 0.447*0.447 n: 0.447*0.447 la: 0.447*0.447 cienega: 0.447*0.447 blvd: 0.447*0.447
+score = 0.9999999999999999)
+207	(207,206,5937 geary blvd.,5937 geary blvd.,Common tokens:  blvd: 0.577*0.577 5937: 0.577*0.577 geary: 0.577*0.577
+score = 1.0000000000000002)
+45	(45,44,67 n. raymond ave.,67 n. raymond ave.,Common tokens:  67: 0.500*0.500 n: 0.500*0.500 raymond: 0.500*0.500 ave: 0.500*0.500
+score = 1.0)
+43	(43,42,3115 pico blvd.,3115 pico blvd.,Common tokens:  pico: 0.577*0.577 blvd: 0.577*0.577 3115: 0.577*0.577
+score = 1.0000000000000002)
+22	(22,23,903 n. la cienega blvd.,903 n. la cienega blvd.,Common tokens:  blvd: 0.447*0.447 903: 0.447*0.447 n: 0.447*0.447 la: 0.447*0.447 cienega: 0.447*0.447
+score = 0.9999999999999999)
+8	(8,9,624 s. la brea ave.,624 s. la brea ave.,Common tokens:  624: 0.447*0.447 s: 0.447*0.447 la: 0.447*0.447 brea: 0.447*0.447 ave: 0.447*0.447
+score = 0.9999999999999999)
+25	(25,24,8284 melrose ave.,8284 melrose ave.,Common tokens:  ave: 0.577*0.577 8284: 0.577*0.577 melrose: 0.577*0.577
+score = 1.0000000000000002)
+558	(558,541,3400 las vegas blvd. s,3400 las vegas blvd. s,Common tokens:  s: 0.447*0.447 3400: 0.447*0.447 las: 0.447*0.447 vegas: 0.447*0.447 blvd: 0.447*0.447
+score = 0.9999999999999999)
+785	(785,770,3799 las vegas blvd. s.,3799 las vegas blvd. s.,Common tokens:  las: 0.447*0.447 vegas: 0.447*0.447 blvd: 0.447*0.447 s: 0.447*0.447 3799: 0.447*0.447
+score = 0.9999999999999999)
+165	(165,164,490 e. paces ferry rd. ne,490 e. paces ferry rd.,Common tokens:  rd: 0.408*0.447 paces: 0.408*0.447 ferry: 0.408*0.447 e: 0.408*0.447 490: 0.408*0.447
+score = 0.9128709291752769)
+33	(33,32,5955 melrose ave.,5955 melrose ave.,Common tokens:  ave: 0.577*0.577 5955: 0.577*0.577 melrose: 0.577*0.577
+score = 1.0000000000000002)
+137	(137,136,3799 las vegas blvd. s.,3799 las vegas blvd. s,Common tokens:  las: 0.447*0.447 vegas: 0.447*0.447 blvd: 0.447*0.447 s: 0.447*0.447 3799: 0.447*0.447
+score = 0.9999999999999999)
+145	(145,144,2880 las vegas blvd. s.,2880 las vegas blvd. s,Common tokens:  2880: 0.447*0.447 las: 0.447*0.447 vegas: 0.447*0.447 blvd: 0.447*0.447 s: 0.447*0.447
+score = 0.9999999999999999)
+135	(135,134,3200 las vegas blvd. s.,3200 las vegas blvd. s,Common tokens:  las: 0.447*0.447 vegas: 0.447*0.447 blvd: 0.447*0.447 s: 0.447*0.447 3200: 0.447*0.447
+score = 0.9999999999999999)
+768	(768,773,3300 las vegas blvd. s.,3300 las vegas blvd. s.,Common tokens:  las: 0.447*0.447 vegas: 0.447*0.447 blvd: 0.447*0.447 s: 0.447*0.447 3300: 0.447*0.447
+score = 0.9999999999999999)
+545	(545,539,3570 las vegas blvd. s,3570 las vegas blvd. s,Common tokens:  3570: 0.447*0.447 las: 0.447*0.447 vegas: 0.447*0.447 blvd: 0.447*0.447 s: 0.447*0.447
+score = 0.9999999999999999)
+561	(561,550,3570 las vegas blvd. s,3570 las vegas blvd. s,Common tokens:  3570: 0.447*0.447 las: 0.447*0.447 vegas: 0.447*0.447 blvd: 0.447*0.447 s: 0.447*0.447
+score = 0.9999999999999999)
+140	(140,141,3570 las vegas blvd. s,3570 las vegas blvd. s.,Common tokens:  3570: 0.447*0.447 las: 0.447*0.447 vegas: 0.447*0.447 blvd: 0.447*0.447 s: 0.447*0.447
+score = 0.9999999999999999)
+13	(13,12,6703 melrose ave.,6703 melrose ave.,Common tokens:  melrose: 0.577*0.577 ave: 0.577*0.577 6703: 0.577*0.577
+score = 1.0000000000000002)
+0	(0,1,435 s. la cienega blv.,435 s. la cienega blvd.,Common tokens:  s: 0.447*0.447 435: 0.447*0.447 la: 0.447*0.447 cienega: 0.447*0.447 'blv'~='blvd': 0.447*0.447*0.942
+score = 0.9883333333333333)
+223	(223,222,532 columbus ave.,532 columbus ave.,Common tokens:  ave: 0.577*0.577 columbus: 0.577*0.577 532: 0.577*0.577
+score = 1.0000000000000002)
+177	(177,176,1232 w. paces ferry rd.,1232 w. paces ferry rd.,Common tokens:  w: 0.447*0.447 rd: 0.447*0.447 paces: 0.447*0.447 ferry: 0.447*0.447 1232: 0.447*0.447
+score = 0.9999999999999999)
+536	(536,784,3645 las vegas blvd. s,3645 las vegas blvd. s.,Common tokens:  3645: 0.447*0.447 las: 0.447*0.447 vegas: 0.447*0.447 blvd: 0.447*0.447 s: 0.447*0.447
+score = 0.9999999999999999)
+169	(169,168,1397 n. highland ave.,1397 n. highland ave.,Common tokens:  1397: 0.500*0.500 n: 0.500*0.500 highland: 0.500*0.500 ave: 0.500*0.500
+score = 1.0)
+608	(608,584,ghirardelli sq.,ghirardelli sq.,Common tokens:  ghirardelli: 0.707*0.707 sq: 0.707*0.707
+score = 0.9999999999999998)
+53	(53,52,201 w. 83rd st.,201 w. 83rd st.,Common tokens:  w: 0.447*0.447 st: 0.447*0.447 201: 0.447*0.447 83: 0.447*0.447 rd: 0.447*0.447
+score = 0.9999999999999999)
+816	(816,811,1248 clairmont rd.,1248 clairmont rd.,Common tokens:  1248: 0.577*0.577 clairmont: 0.577*0.577 rd: 0.577*0.577
+score = 1.0000000000000002)
+101	(101,100,55 e. 54th st.,55 e. 54th st.,Common tokens:  th: 0.447*0.447 st: 0.447*0.447 54: 0.447*0.447 e: 0.447*0.447 55: 0.447*0.447
+score = 0.9999999999999999)
+48	(48,49,13 w. 54th st.,13 w. 54th st.,Common tokens:  th: 0.447*0.447 st: 0.447*0.447 54: 0.447*0.447 w: 0.447*0.447 13: 0.447*0.447
+score = 0.9999999999999999)
+3	(3,2,12224 ventura blvd.,12224 ventura blvd.,Common tokens:  blvd: 0.577*0.577 ventura: 0.577*0.577 12224: 0.577*0.577
+score = 1.0000000000000002)
+219	(219,218,545 post st.,545 post st.,Common tokens:  st: 0.577*0.577 545: 0.577*0.577 post: 0.577*0.577
+score = 1.0000000000000002)
+213	(213,212,648 bush st.,648 bush st.,Common tokens:  st: 0.577*0.577 648: 0.577*0.577 bush: 0.577*0.577
+score = 1.0000000000000002)
+197	(197,196,340 stockton st.,340 stockton st.,Common tokens:  st: 0.577*0.577 340: 0.577*0.577 stockton: 0.577*0.577
+score = 1.0000000000000002)
+66	(66,67,243 e. 58th st.,243 e. 58th st.,Common tokens:  th: 0.447*0.447 st: 0.447*0.447 e: 0.447*0.447 243: 0.447*0.447 58: 0.447*0.447
+score = 0.9999999999999999)
+181	(181,179,3434 peachtree rd. ne,3434 peachtree rd. ne,Common tokens:  rd: 0.500*0.500 3434: 0.500*0.500 peachtree: 0.500*0.500 ne: 0.500*0.500
+score = 1.0)
+180	(180,178,3434 peachtree rd.,3434 peachtree rd.,Common tokens:  rd: 0.577*0.577 3434: 0.577*0.577 peachtree: 0.577*0.577
+score = 1.0000000000000002)
+385	(385,133,15 w. 44th st.,152 w. 44th st.,Common tokens:  th: 0.447*0.447 st: 0.447*0.447 w: 0.447*0.447 44: 0.447*0.447 '15'~='152': 0.447*0.447*0.911
+score = 0.9822222222222221)
+115	(115,114,240 central park s.,240 central park s,Common tokens:  park: 0.500*0.500 240: 0.500*0.500 s: 0.500*0.500 central: 0.500*0.500
+score = 1.0)
+106	(106,107,35 w. 64th st.,35 w. 64th st.,Common tokens:  w: 0.447*0.447 th: 0.447*0.447 st: 0.447*0.447 64: 0.447*0.447 35: 0.447*0.447
+score = 0.9999999999999999)
+7	(7,6,14016 ventura blvd.,14016 ventura blvd.,Common tokens:  14016: 0.577*0.577 ventura: 0.577*0.577 blvd: 0.577*0.577
+score = 1.0000000000000002)
+77	(77,76,160 e. 64th st.,160 e. 64th st.,Common tokens:  th: 0.447*0.447 st: 0.447*0.447 64: 0.447*0.447 e: 0.447*0.447 160: 0.447*0.447
+score = 0.9999999999999999)
+50	(50,51,34 e. 61st st.,34 e. 61st st.,Common tokens:  st: 0.500*0.500 e: 0.500*0.500 34: 0.500*0.500 61: 0.500*0.500
+score = 1.0)
+534	(534,155,3393 peachtree rd.,3393 peachtree rd.,Common tokens:  rd: 0.577*0.577 peachtree: 0.577*0.577 3393: 0.577*0.577
+score = 1.0000000000000002)
+554	(554,552,129 e. fremont st.,129 e. fremont st.,Common tokens:  129: 0.500*0.500 fremont: 0.500*0.500 st: 0.500*0.500 e: 0.500*0.500
+score = 1.0)
+36	(36,37,12969 ventura blvd.,12969 ventura blvd.,Common tokens:  blvd: 0.577*0.577 12969: 0.577*0.577 ventura: 0.577*0.577
+score = 1.0000000000000002)
+89	(89,88,249 e. 50th st.,249 e. 50th st.,Common tokens:  st: 0.447*0.447 th: 0.447*0.447 e: 0.447*0.447 50: 0.447*0.447 249: 0.447*0.447
+score = 0.9999999999999999)
+11	(11,10,2709 main st.,2709 main st.,Common tokens:  st: 0.577*0.577 2709: 0.577*0.577 main: 0.577*0.577
+score = 1.0000000000000002)
+158	(158,159,1529 piedmont ave.,1529 piedmont ave.,Common tokens:  ave: 0.577*0.577 piedmont: 0.577*0.577 1529: 0.577*0.577
+score = 1.0000000000000002)
+161	(161,160,1 margaret mitchell sq.,1 margaret mitchell sq.,Common tokens:  1: 0.500*0.500 margaret: 0.500*0.500 mitchell: 0.500*0.500 sq: 0.500*0.500
+score = 1.0)
+201	(201,200,777 sutter st.,777 sutter st.,Common tokens:  777: 0.577*0.577 sutter: 0.577*0.577 st: 0.577*0.577
+score = 1.0000000000000002)
+677	(677,665,6333 w. third st.,6333 w. third st.,Common tokens:  st: 0.500*0.500 w: 0.500*0.500 6333: 0.500*0.500 third: 0.500*0.500
+score = 1.0)
+92	(92,93,405 e. 58th st.,405 e. 58th st.,Common tokens:  e: 0.447*0.447 th: 0.447*0.447 st: 0.447*0.447 405: 0.447*0.447 58: 0.447*0.447
+score = 0.9999999999999999)
+64	(64,65,210 e. 58th st.,210 e. 58th st.,Common tokens:  e: 0.447*0.447 th: 0.447*0.447 st: 0.447*0.447 58: 0.447*0.447 210: 0.447*0.447
+score = 0.9999999999999999)
+187	(187,186,41 14th st.,41 14th st.,Common tokens:  th: 0.500*0.500 st: 0.500*0.500 41: 0.500*0.500 14: 0.500*0.500
+score = 1.0)
+78	(78,79,33 w. 55th st.,33 w. 55th st.,Common tokens:  th: 0.447*0.447 st: 0.447*0.447 w: 0.447*0.447 55: 0.447*0.447 33: 0.447*0.447
+score = 0.9999999999999999)
+86	(86,87,2 e. 55th st.,2 e. 55th st.,Common tokens:  e: 0.447*0.447 th: 0.447*0.447 st: 0.447*0.447 55: 0.447*0.447 2: 0.447*0.447
+score = 0.9999999999999999)
+131	(131,130,21 e. 16th st.,21 e. 16th st.,Common tokens:  th: 0.447*0.447 st: 0.447*0.447 e: 0.447*0.447 21: 0.447*0.447 16: 0.447*0.447
+score = 0.9999999999999999)
+70	(70,71,12 e. 12th st.,12 e. 12th st.,Common tokens:  st: 0.500*0.500 th: 0.500*0.500 e: 0.500*0.500 12: 0.500*0.500
+score = 1.0)
+74	(74,75,402 w. 44th st.,402 w. 44th st.,Common tokens:  w: 0.447*0.447 st: 0.447*0.447 th: 0.447*0.447 402: 0.447*0.447 44: 0.447*0.447
+score = 0.9999999999999999)
+104	(104,105,182 w. 58th st.,182 w. 58th st.,Common tokens:  w: 0.447*0.447 st: 0.447*0.447 th: 0.447*0.447 182: 0.447*0.447 58: 0.447*0.447
+score = 0.9999999999999999)
+68	(68,69,99 e. 52nd st.,99 e. 52nd st.,Common tokens:  st: 0.447*0.447 nd: 0.447*0.447 e: 0.447*0.447 52: 0.447*0.447 99: 0.447*0.447
+score = 0.9999999999999999)
+204	(204,205,22 hawthorne st.,22 hawthorne st.,Common tokens:  st: 0.577*0.577 22: 0.577*0.577 hawthorne: 0.577*0.577
+score = 1.0000000000000002)
+19	(19,18,9560 dayton way,9560 dayton way,Common tokens:  9560: 0.577*0.577 dayton: 0.577*0.577 way: 0.577*0.577
+score = 1.0000000000000002)
+208	(208,209,2316 polk st.,2316 polk st.,Common tokens:  st: 0.577*0.577 2316: 0.577*0.577 polk: 0.577*0.577
+score = 1.0000000000000002)
+293	(293,368,222 e. 58th st.  between 2nd and 3rd aves.,208 e. 58th st.  between 2nd and 3rd aves.,Common tokens:  th: 0.289*0.289 st: 0.289*0.289 between: 0.289*0.289 and: 0.289*0.289 e: 0.289*0.289 58: 0.289*0.289 2: 0.289*0.289 nd: 0.289*0.289 3: 0.289*0.289 rd: 0.289*0.289 aves: 0.289*0.289
+score = 0.916666666666667)
+297	(297,335,1022 3rd ave.  between 60th and 61st sts.,1013 3rd ave.  between 60th and 61st sts.,Common tokens:  st: 0.302*0.302 ave: 0.302*0.302 between: 0.302*0.302 th: 0.302*0.302 and: 0.302*0.302 sts: 0.302*0.302 3: 0.302*0.302 rd: 0.302*0.302 60: 0.302*0.302 61: 0.302*0.302
+score = 0.9090909090909093)
+90	(90,91,57 w. 58th st.,57 w. 58th st.,Common tokens:  st: 0.447*0.447 th: 0.447*0.447 57: 0.447*0.447 w: 0.447*0.447 58: 0.447*0.447
+score = 0.9999999999999999)
+215	(215,214,1737 post st.,1737 post st.,Common tokens:  st: 0.577*0.577 post: 0.577*0.577 1737: 0.577*0.577
+score = 1.0000000000000002)
+38	(38,39,617 s. olive st.,617 s. olive st.,Common tokens:  st: 0.500*0.500 s: 0.500*0.500 617: 0.500*0.500 olive: 0.500*0.500
+score = 1.0)
+63	(63,62,20 e. 76th st.,20 e. 76th st.,Common tokens:  st: 0.447*0.447 th: 0.447*0.447 76: 0.447*0.447 e: 0.447*0.447 20: 0.447*0.447
+score = 0.9999999999999999)
+55	(55,54,1 w. 67th st.,1 w. 67th st.,Common tokens:  1: 0.447*0.447 st: 0.447*0.447 th: 0.447*0.447 67: 0.447*0.447 w: 0.447*0.447
+score = 0.9999999999999999)
+143	(143,142,200 e. fremont st.,200 e. fremont st.,Common tokens:  st: 0.500*0.500 e: 0.500*0.500 fremont: 0.500*0.500 200: 0.500*0.500
+score = 1.0)
+35	(35,34,1001 n. alameda st.,1001 n. alameda st.,Common tokens:  st: 0.500*0.500 1001: 0.500*0.500 n: 0.500*0.500 alameda: 0.500*0.500
+score = 1.0)
+192	(192,193,1 mission st.,1 mission st.,Common tokens:  st: 0.577*0.577 1: 0.577*0.577 mission: 0.577*0.577
+score = 1.0000000000000002)
+229	(229,271,3rd st. promenade,3rd st. promenade,Common tokens:  st: 0.500*0.500 rd: 0.500*0.500 3: 0.500*0.500 promenade: 0.500*0.500
+score = 1.0)
+210	(210,211,816 folsom st.,816 folsom st.,Common tokens:  816: 0.577*0.577 folsom: 0.577*0.577 st: 0.577*0.577
+score = 1.0000000000000002)
+513	(513,501,3300 peachtree rd.  grand hyatt,3300 peachtree rd.  grand hyatt,Common tokens:  peachtree: 0.447*0.447 3300: 0.447*0.447 rd: 0.447*0.447 grand: 0.447*0.447 hyatt: 0.447*0.447
+score = 0.9999999999999999)
+822	(822,182,181 peachtree st.,181 peachtree st.,Common tokens:  st: 0.577*0.577 peachtree: 0.577*0.577 181: 0.577*0.577
+score = 1.0000000000000002)
+31	(31,30,9001 santa monica blvd.,9001 santa monica blvd.,Common tokens:  santa: 0.500*0.500 monica: 0.500*0.500 blvd: 0.500*0.500 9001: 0.500*0.500
+score = 1.0)
+190	(190,191,252 california st.,252 california st.,Common tokens:  st: 0.577*0.577 california: 0.577*0.577 252: 0.577*0.577
+score = 1.0000000000000002)
+220	(220,221,600 stockton st.,600 stockton st.,Common tokens:  st: 0.577*0.577 600: 0.577*0.577 stockton: 0.577*0.577
+score = 1.0000000000000002)
+4	(4,5,701 stone canyon rd.,701 stone canyon rd.,Common tokens:  rd: 0.500*0.500 701: 0.500*0.500 stone: 0.500*0.500 canyon: 0.500*0.500
+score = 1.0)
+84	(84,312,160 central park s,160 central park s,Common tokens:  central: 0.500*0.500 park: 0.500*0.500 160: 0.500*0.500 s: 0.500*0.500
+score = 1.0)
+188	(188,189,126 clement st.,126 clement st.,Common tokens:  st: 0.577*0.577 126: 0.577*0.577 clement: 0.577*0.577
+score = 1.0000000000000002)
+118	(118,119,11 e. 53rd st.,11 e. 53rd st.,Common tokens:  st: 0.447*0.447 e: 0.447*0.447 11: 0.447*0.447 53: 0.447*0.447 rd: 0.447*0.447
+score = 0.9999999999999999)
+103	(103,102,100 e. 63rd st.,100 e. 63rd st.,Common tokens:  100: 0.447*0.447 e: 0.447*0.447 63: 0.447*0.447 rd: 0.447*0.447 st: 0.447*0.447
+score = 0.9999999999999999)
+26	(26,235,3rd st.,3rd st.,Common tokens:  st: 0.577*0.577 3: 0.577*0.577 rd: 0.577*0.577
+score = 1.0000000000000002)
+82	(82,83,155 w. 51st st.,155 w. 51st st.,Common tokens:  155: 0.500*0.500 w: 0.500*0.500 51: 0.500*0.500 st: 0.500*0.500
+score = 1.0)
+47	(47,46,21 w. 52nd st.,21 w. 52nd st.,Common tokens:  st: 0.447*0.447 21: 0.447*0.447 w: 0.447*0.447 52: 0.447*0.447 nd: 0.447*0.447
+score = 0.9999999999999999)
+17	(17,16,23725 w. malibu rd.,23725 w. malibu rd.,Common tokens:  23725: 0.500*0.500 w: 0.500*0.500 malibu: 0.500*0.500 rd: 0.500*0.500
+score = 1.0)
+147	(147,146,2245 e. flamingo rd.,2245 e. flamingo rd.,Common tokens:  2245: 0.500*0.500 e: 0.500*0.500 flamingo: 0.500*0.500 rd: 0.500*0.500
+score = 1.0)
+547	(547,769,3700 w. flamingo rd.,3700 w. flamingo rd.,Common tokens:  flamingo: 0.500*0.500 rd: 0.500*0.500 3700: 0.500*0.500 w: 0.500*0.500
+score = 1.0)

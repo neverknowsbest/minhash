@@ -1,0 +1,170 @@
+<project name="SimpleJoin" default="combine-jars" basedir=".">
+	<description>
+		Simple Join Task 1 for hadoop
+	</description>
+	<!-- set global properties for this build -->
+	<property name="src" location="src"/>
+	<property name="build" location="build"/>
+	<property name="dist"  location="dist"/>
+	<property name="hadoop.dir" value="/usr/lib/hadoop/client-0.20/"/>
+	<property name="marshall.dir" value="jars-temp"/>
+	<property name="external.jar.dir" value="external_jars"/>
+	<property name="jarfile" value="simplejoin.jar"/>
+	<property name="hadoop.output.dir" value="simplejoin-out"/>
+	<property name="hadoop.input.file" value="dbgen1k-numbered.txt"/>
+	
+	<path id="classpath">
+		<fileset dir="${hadoop.dir}" includes="**/*.jar" />	
+		<fileset dir=".." includes="*.jar" />
+	</path>
+
+	<target name="init">
+		<!-- Create the time stamp -->
+		<tstamp/>
+		<!-- Create the build directory structure used by compile -->
+		<mkdir dir="${build}"/>
+	</target>
+
+	<target name="compile" depends="init" description="compile the source " >
+		<!-- Compile the java code from ${src} into ${build} -->
+		<javac srcdir="${src}" destdir="${build}" classpathref="classpath" includeantruntime="False" debug="true"/>
+	</target>
+
+	<target name="dist" depends="compile" description="generate the distribution" >
+		<!-- Create the distribution directory -->
+		<mkdir dir="${dist}/lib"/>
+		
+		<!-- Put everything in ${build} into the MyProject-${DSTAMP}.jar file -->
+		<jar jarfile="${dist}/lib/${jarfile}" basedir="${build}"/>
+	</target>
+
+	<target name="combine-jars" depends="dist" description="combine all jars">
+		<mkdir dir="${marshall.dir}"/>
+		<unzip dest="${marshall.dir}">
+			<fileset dir="${external.jar.dir}">
+				<include name="**/*.jar"/>
+			</fileset>
+			<fileset dir="${dist}/lib/">
+				<include name="**/*.jar"/>
+			</fileset>	
+		</unzip>
+		
+		<jar jarfile="${jarfile}" basedir="${marshall.dir}"/>
+		<delete dir="${marshall.dir}"/>
+	</target>
+	
+	<target name="prep.hadoop" description="delete/upload jar and input files to hdfs">
+		<exec executable="hdfs">
+			<arg value="dfs"/>
+			<arg value="-rm"/>
+			<arg value="${jarfile}"/>
+		</exec>
+		<exec executable="hdfs">
+			<arg value="dfs"/>
+			<arg value="-put"/>
+			<arg value="${jarfile}"/>
+		</exec>
+		<exec executable="hdfs">
+			<arg value="dfs"/>
+			<arg value="-rm"/>
+			<arg value="-r"/>
+			<arg value="${hadoop.output.dir}"/>
+		</exec>
+		<exec executable="hdfs">
+			<arg value="dfs"/>
+			<arg value="-rm"/>
+			<arg value="${hadoop.input.file}"/>
+		</exec>		
+		<exec executable="hdfs">
+			<arg value="dfs"/>
+			<arg value="-put"/>
+			<arg value="../input/${hadoop.input.file}"/>
+		</exec>		
+	</target>
+	
+	<target name="run.hadoop" depends="prep.hadoop" description="run hadoop program">
+		<exec executable="hdfs">
+			<arg value="dfs"/>
+			<arg value="-rm"/>
+			<arg value="-r"/>
+			<arg value="${hadoop.output.dir}"/>
+		</exec>
+		<exec executable="hadoop">
+			<arg value="jar"/>
+			<arg value="${jarfile}"/>
+			<arg value="com.nsrdev.SimpleJoin"/>
+			<arg value="input-restaurant.txt"/>
+			<arg value="${hadoop.output.dir}"/>
+			<arg value="SoftTFIDF"/>
+			<arg value="0.9"/>
+		</exec>
+	</target>
+	
+	<target name="run.mh" depends="prep.hadoop" description="run minhash test">
+		<exec executable="hdfs">
+			<arg value="dfs"/>
+			<arg value="-rm"/>
+			<arg value="-r"/>
+			<arg value="${hadoop.output.dir}"/>
+		</exec>
+		<exec executable="hadoop">
+			<arg value="jar"/>
+			<arg value="${jarfile}"/>
+			<arg value="com.nsrdev.MinHashMR"/>
+			<arg value="${hadoop.input.file}"/>
+			<arg value="${hadoop.output.dir}"/>
+			<arg value="3"/>
+			<arg value="SoftTFIDF"/>
+			<arg value="0.65"/>
+		</exec>
+		<exec executable="rm">
+			<arg value="-r"/>
+			<arg value="${hadoop.output.dir}"/>
+		</exec>
+		<exec executable="hdfs">
+			<arg value="dfs"/>
+			<arg value="-get"/>
+			<arg value="${hadoop.output.dir}"/>
+		</exec>
+	</target>
+	
+	<target name="run.collate" depends="prep.hadoop" description="run collate test">
+		<exec executable="hdfs">
+			<arg value="dfs"/>
+			<arg value="-rm"/>
+			<arg value="-r"/>
+			<arg value="collate-out"/>
+		</exec>		
+		<exec executable="hdfs">
+			<arg value="dfs"/>
+			<arg value="-put"/>
+			<arg value="${hadoop.output.dir}"/>
+		</exec>
+		<exec executable="hadoop">
+			<arg value="jar"/>
+			<arg value="${jarfile}"/>
+			<arg value="com.nsrdev.Collate"/>
+			<arg value="${hadoop.output.dir}"/>
+			<arg value="collate-out"/>
+		</exec>
+	</target>		
+
+	<target name="run.single" description="run single-machine program">
+		<exec executable="java">
+			<arg value="com.nsrdev.SimpleJoinSingle"/>
+			<arg value="../input/celebrity.txt"/>
+			<!-- <arg value="../input/preparedinput"/> -->
+			<arg value="singleoutput.txt"/>
+			<arg value="Jaccard"/>
+			<arg value="0.9"/>
+			<arg value="verbose"/>
+		</exec>
+	</target>
+	
+	<target name="clean" description="clean up" >
+		<!-- Delete the ${build} and ${dist} directory trees -->
+		<delete dir="${build}"/>
+		<delete dir="${dist}"/>
+	</target>
+
+</project>
